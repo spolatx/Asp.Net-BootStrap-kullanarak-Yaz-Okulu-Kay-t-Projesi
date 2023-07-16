@@ -1,0 +1,10 @@
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\EntityLayer\obj\Debug\EntityLayer.pdb

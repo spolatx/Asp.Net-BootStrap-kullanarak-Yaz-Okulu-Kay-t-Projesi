@@ -1,0 +1,15 @@
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

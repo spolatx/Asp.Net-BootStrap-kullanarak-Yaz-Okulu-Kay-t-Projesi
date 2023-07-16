@@ -1,0 +1,13 @@
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Samet Polat\source\repos\YAZOKULUKAYIT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
